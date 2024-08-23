@@ -1,4 +1,4 @@
-# Interpreting Your Favourite City Using Machine Learning
+# Interpreting Your Favourite City
 
 We developed three machine learning algorithms, each with a different approach, to guess a student's favourite city. The data was sourced from our peers in the classroom and has a number of parameters that can help differ one city from another. We achieved the highest testing accuracy of 85% across all models and we have summarized our findings in our report in this repository as well.
 
